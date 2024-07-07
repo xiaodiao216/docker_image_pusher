@@ -1,1 +1,1 @@
-sulinggg/openwrt:armv8
+sulinggg/openwrt

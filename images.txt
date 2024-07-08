@@ -1,2 +1,3 @@
 sulinggg/openwrt
 unifreq/openwrt-aarch64
+homeassistant/home-assistant

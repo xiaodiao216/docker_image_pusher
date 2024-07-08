@@ -1,1 +1,2 @@
 sulinggg/openwrt
+unifreq/openwrt-aarch64
